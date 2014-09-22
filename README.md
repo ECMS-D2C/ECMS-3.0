@@ -1,7 +1,7 @@
 ECMS-3.0
 ========
 
-ECMS tool for Documaker to CMOD
+ECMS tool for Documaker to CMOD migration
 
 ECMS Migration tool has three main components
 •	ECMS Controller
